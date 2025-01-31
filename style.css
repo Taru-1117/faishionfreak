@@ -1013,6 +1013,7 @@ input[type="email"]{
         color: #fff;
         border: 2px solid #467165;
         margin-left: -50px; 
+        margin-top:-50px;
     }
     .subscribe{
         padding: 30px;
