@@ -944,7 +944,7 @@ justify-content: center;
         justify-content: center;
         padding-left: 350px;
     }
-.dropdown-toggle{
+.nav-links .dropdown .dropdown-toggle{
     border:none;
 }
     .dropdown-menu h3{
